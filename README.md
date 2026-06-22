@@ -6,6 +6,6 @@ https://canva.link/3sqo4yzvm0ry9fu
 
 https://canva.link/u8e8pkknzopn0no
 
-#VIDEO DEL FUNCIONAMIENTO DEL PROGRAMA
+# VIDEO DEL FUNCIONAMIENTO DEL PROGRAMA
 
 https://canva.link/i0gf2tprdniv2gw
