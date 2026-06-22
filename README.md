@@ -2,4 +2,10 @@
 
 Diseño realizado en Canva:
 
-[https://www.canva.com/tu-enlace-aqui](https://canva.link/3sqo4yzvm0ry9fu)
+(https://canva.link/3sqo4yzvm0ry9fu)
+
+# VIDEO EXPLICATIVO DEL AVANCE DEL DESARROLLO
+
+Diseño realizado en Cnva:
+
+https://canva.link/u8e8pkknzopn0no
