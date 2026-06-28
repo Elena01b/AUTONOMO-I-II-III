@@ -1,7 +1,8 @@
 
 # ATARI PONG
 
-Benalcazar Reyes Elena Belen
+Benalcázar Reyes Elena Belén
+
 28/06/2026
 
 # Objetivo de sistema
@@ -21,7 +22,7 @@ El sistema desarrollado cuenta con las siguientes funcionalidades:
 - Finalización de la partida cuando un jugador alcanza cinco puntos.
 - Código organizado en funciones para facilitar su comprensión y mantenimiento.
 
-# VIDEO DIAGRAMS DE FLUJO
+# VIDEO DIAGRAMAS DE FLUJO
 
 https://canva.link/3sqo4yzvm0ry9fu
 
